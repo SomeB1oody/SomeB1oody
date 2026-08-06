@@ -9,6 +9,8 @@ Senior at [San Domenico School](https://www.sandomenico.org/), San Anselmo, CA.
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![Total Stars](https://img.shields.io/github/stars/SomeB1oody?style=flat&label=Total%20Stars&color=FFCA28&logo=github&logoColor=white)
+![Crates.io Downloads](https://img.shields.io/badge/Crates.io%20Downloads-7.9k-E6B14C?style=flat&logo=rust&logoColor=white)
 
 ## My Repos
 
@@ -33,15 +35,8 @@ I turn what I learn into guides and blog posts. You can see my posts at:
 - 🇨🇳 Simplified Chinese: [CSDN](https://someb1oody.blog.csdn.net/)
 - 🇬🇧 English: [Dev.to](https://dev.to/someb1oody)
 
-They are also stored in GitHub repos:
-| Guide | Topic |
-| :--- | :--- |
-| [RustGuide](https://someb1oody.github.io/RustGuide/) | Rust for beginners |
-| [AdvancedRust](https://someb1oody.github.io/AdvancedRust/) | Advanced Rust |
-| [MLGuide](https://someb1oody.github.io/MLGuide/) | Machine learning for beginners |
-| [DLGuide](https://someb1oody.github.io/DLGuide/) | Deep learning for beginners |
-
-## GitHub Stats
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=SomeB1oody&show_icons=true&hide_border=true)](https://github.com/SomeB1oody)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SomeB1oody&layout=compact&hide_border=true)](https://github.com/SomeB1oody)
+Some of them are also stored in GitHub repos:
+- [RustGuide](https://someb1oody.github.io/RustGuide/) - Rust for beginners
+- [AdvancedRust](https://someb1oody.github.io/AdvancedRust/) - Advanced Rust knowledge
+- [MLGuide](https://someb1oody.github.io/MLGuide/) - Machine learning for beginners
+- [DLGuide](https://someb1oody.github.io/DLGuide/) - Deep learning for beginners
