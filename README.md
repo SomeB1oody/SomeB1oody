@@ -2,6 +2,14 @@
 
 Senior at [San Domenico School](https://www.sandomenico.org/), San Anselmo, CA.
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+
 ## My Repos
 
 I am a passionate **Rust**🦀 developer. Most of my work are related to Rust, machine learning, and numerical computing. Specifically, I write:
@@ -33,19 +41,7 @@ They are also stored in GitHub repos:
 | [MLGuide](https://someb1oody.github.io/MLGuide/) | Machine learning for beginners |
 | [DLGuide](https://someb1oody.github.io/DLGuide/) | Deep learning for beginners |
 
-## Tools
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
-<details>
-<summary>GitHub stats</summary>
+## GitHub Stats
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=SomeB1oody&show_icons=true&hide_border=true)](https://github.com/SomeB1oody)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SomeB1oody&layout=compact&hide_border=true)](https://github.com/SomeB1oody)
-
-</details>
