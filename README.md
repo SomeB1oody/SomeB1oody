@@ -10,7 +10,7 @@ Senior at [San Domenico School](https://www.sandomenico.org/), San Anselmo, CA.
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Total Stars](https://img.shields.io/github/stars/SomeB1oody?style=flat&label=Total%20Stars&color=FFCA28&logo=github&logoColor=white)
-![Crates.io Downloads](https://img.shields.io/badge/Crates.io%20Downloads-7.9k-E6B14C?style=flat&logo=rust&logoColor=white)
+![Crates.io Downloads](https://img.shields.io/badge/Crates.io%20Downloads-8.1k-E6B14C?style=flat&logo=rust&logoColor=white)
 
 ## My Repos
 
